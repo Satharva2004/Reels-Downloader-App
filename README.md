@@ -1,3 +1,13 @@
+<h2 align="center">APP Preview</h2>
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/2496ac5e-8f9f-4541-beca-4e0c8eb7f4c6" alt="App Screenshot 2" width="250"/>
+   &nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/user-attachments/assets/12ef4f84-e87d-45d4-9bcf-c6c6b404d7a2" alt="App Screenshot 1" width="250"/>
+  
+ 
+</p>
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
